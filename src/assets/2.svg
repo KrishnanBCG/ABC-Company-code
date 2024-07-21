@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.51" height="24.501" viewBox="0 0 24.51 24.501">
+  <g id="Group_1817" data-name="Group 1817" transform="translate(-1563.75 -710.75)">
+    <path id="Path_103" data-name="Path 103" d="M12.152,6.592H2.068a.29.29,0,0,1,0-.568H12.152a.29.29,0,0,1,0,.568" transform="translate(1564.919 712.306)" fill="#5a5a5a" stroke="#0078ac" stroke-width="0.5"/>
+    <path id="Path_104" data-name="Path 104" d="M12.152,3.428H2.068a.262.262,0,0,1-.231-.284.262.262,0,0,1,.231-.285H12.152a.262.262,0,0,1,.23.285.262.262,0,0,1-.23.284" transform="translate(1564.919 711.707)" fill="#5a5a5a" stroke="#0078ac" stroke-width="0.5"/>
+    <path id="Path_105" data-name="Path 105" d="M10.275,9.755H2.026c-.1,0-.189-.127-.189-.284s.085-.285.189-.285h8.249c.1,0,.188.127.188.285s-.085.284-.188.284" transform="translate(1564.919 712.822)" fill="#5a5a5a" stroke="#0078ac" stroke-width="0.5"/>
+    <path id="Path_106" data-name="Path 106" d="M7.49,13.2H2.051c-.117,0-.213-.127-.213-.284s.1-.285.213-.285H7.49c.117,0,.213.127.213.285s-.1.284-.213.284" transform="translate(1564.918 713.055)" fill="#5a5a5a" stroke="#0078ac" stroke-width="0.5"/>
+    <path id="Path_107" data-name="Path 107" d="M7.907,16.649H2.049c-.117,0-.212-.127-.212-.284s.1-.285.212-.285H7.907c.117,0,.212.127.212.285s-.1.284-.212.284" transform="translate(1564.919 713.424)" fill="#5a5a5a" stroke="#0078ac" stroke-width="0.5"/>
+    <path id="Path_109" data-name="Path 109" d="M16.247,22.854a.258.258,0,0,1-.094-.018c-6.241-2.446-5.862-9.172-5.858-9.24a.26.26,0,0,1,.132-.208l5.693-3.208a.258.258,0,0,1,.255,0l1.683.948a.26.26,0,0,1-.256.452L16.247,10.7l-5.44,3.065c-.028.96.064,6.375,5.44,8.546,5.314-2.146,5.454-7.61,5.438-8.546l-1.758-.991a.26.26,0,0,1,.255-.453l1.886,1.063a.26.26,0,0,1,.132.208c0,.068.384,6.794-5.857,9.24a.267.267,0,0,1-.1.018" transform="translate(1565.795 712.146)" fill="#5a5a5a" stroke="#0078ac" stroke-width="0.5"/>
+    <path id="Path_110" data-name="Path 110" d="M11.806,22.875H.284A.287.287,0,0,1,0,22.584V.29A.287.287,0,0,1,.284,0h16.1a.287.287,0,0,1,.284.29V9.459a.284.284,0,1,1-.567,0V.581H.568V22.294H11.806a.291.291,0,0,1,0,.581" transform="translate(1564 711)" fill="#5a5a5a" stroke="#0078ac" stroke-width="0.5"/>
+    <path id="Path_111" data-name="Path 111" d="M15,17.354l2.02,1.784,3.85-4.1" transform="translate(1564.576 711.683)" fill="none" stroke="#0078ac" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
